@@ -1,1 +1,1 @@
-Shell permisssions
+effective username
