@@ -1,1 +1,1 @@
-cript that changes the working directory to the previous one
+cript that lists all files
